@@ -51,3 +51,7 @@ git push <br>
 ## letzten Stand vom entfernten Repository holen:
 git fetch origin <br>
 git reset --hard origin/master <br>
+
+
+
+## Was neues ist dazu gekommen
