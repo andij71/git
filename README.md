@@ -20,8 +20,6 @@ git remote add origin <server> <br>
 ## Auf Remote hochladen
 git push origin master <br>
 
-
-
 ## Branching
 
 ### Branch erstellen und wechseln
@@ -53,3 +51,9 @@ git push <br>
 ## letzten Stand vom entfernten Repository holen:
 git fetch origin <br>
 git reset --hard origin/master <br>
+
+
+
+## Was neues ist dazu gekommen
+git pull origin testbranch
+
