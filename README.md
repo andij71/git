@@ -54,6 +54,6 @@ git reset --hard origin/master <br>
 
 
 
-## Was neues ist dazu gekommen
+## Von Remote Repo runterladen
 git pull origin testbranch
 
